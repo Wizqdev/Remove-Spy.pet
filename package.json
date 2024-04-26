@@ -1,0 +1,19 @@
+{
+  "name": "remove-spy.pet",
+  "version": "1.0.0",
+  "description": "A Discord Bot Script To Ban All Spy.pet Bot Accounts From The Server",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon index.js"
+  },
+  "author": "Wizqdev",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.8",
+    "colors": "^1.4.0",
+    "discord.js": "^14.14.1",
+    "dotenv": "^16.4.5",
+    "ms": "^2.1.3"
+  }
+}
